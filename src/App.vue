@@ -82,7 +82,7 @@ export default {
       links: [
         {
           id: 0,
-          linktext: "kohnlehome.de###",
+          linktext: "kohnlehome.de",
           url: "http://kohnlehome.de",
           votes: 1,
         },
